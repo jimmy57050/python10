@@ -1,0 +1,5 @@
+la = int(input("saisir largeur "))
+lo = int(input("saisir longueur "))
+ha = int(input("saisir hauteur "))
+somme = (la*2) + (lo*2) +(ha*2)
+print ("le volume du parallélépipèdes est",somme)
